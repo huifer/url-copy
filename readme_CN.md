@@ -1,5 +1,10 @@
 # URL COPY
 
+<p>
+  <a href="./README.md">English</a> |
+  <a href="./readme_CN.md">中文</a>
+</p>
+
 这是一个浏览器插件，允许用户通过简单的键盘快捷键（Win: Ctrl+Shift+X，Mac: Command+Shift+X）快速复制当前页面的 URL。复制的 URL 将保存到浏览器的本地存储中。该插件最多保留 50 个已保存的 URL，方便用户查询使用。
 
 ## 功能
@@ -26,6 +31,9 @@
     - Mac：Command+Shift+X
 3. 当前页面的 URL 将被复制到剪贴板并保存到插件的本地存储中。
 4. 要访问保存的 URL，请单击扩展图标，然后选择“查看已保存的 URL”。点击后可以复制完整信息
+
+
+![image-20240315220741932](images/image-20240315220741932.png)
 
 ## 开发
 
